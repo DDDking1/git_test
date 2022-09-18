@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("hello git");
         System.out.println("hello 2git");
         System.out.println("push test");
+        System.out.println("remote pull");
     }
 }
